@@ -41,4 +41,8 @@ rust-project.json
 .history
 .ionide
 
+### Project ###
+output.txt
+poem.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/rust,rust-analyzer,visualstudiocode
